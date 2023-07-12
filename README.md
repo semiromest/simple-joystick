@@ -1,5 +1,9 @@
 # simple-joystick
 
+Unity için geliştirilmiş bir joystick bileşeni kodudur. 
+Bu kod, Unity'nin UI sistemine entegre edilerek kullanılabilir ve kullanıcıdan alınan dokunma hareketlerini kontrol etmek için bir joystick sağlar.
+
+
 This is a joystick component code developed for Unity. 
 This code can be integrated into Unity's UI system and used to control touch movements from the user, providing a joystick functionality.
 
